@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
-import heroTexts from '@/data/data'; 
+import {heroTexts} from '@/data/data'; 
 import { HeartPulse } from 'lucide-react';
 
 export default function HeroSection() {
