@@ -24,9 +24,12 @@ const StickyNavbar = () => {
 
     {/* 🌟 Left Side: Logo */}
     <div className="flex items-center gap-3 text-3xl font-bold text-green-900">
-      <span className="text-4xl">🛡️</span>
-      SolidHealth.<i className="text-gray-600">ai</i>
-    </div>
+  <span className="text-4xl">🛡️</span>
+  <span>
+    ABC.<i className="text-gray-600 not-italic">ai</i>
+  </span>
+</div>
+
 
     {/* 👉 Center: Tabs */}
     <div className="absolute left-1/2 transform -translate-x-1/2">

@@ -226,9 +226,9 @@ const preventiveCare = {
 }
 
 const footer = {
-  companyName: "SolidHealth.ai",
-  copyright: "© DataSense LLC 2024 - 2025",
-  email: "info@datasenselabs.com",
+  companyName: "ABC.ai",
+  copyright: "lorem epsum",
+  email: "abc.com",
 };
 
 export {footer,preventiveCare,discussSection2,discussSection, chatBubbles,alertText,heroTexts, supportTexts,carePlanData,chatSection,healthData,healthText };
